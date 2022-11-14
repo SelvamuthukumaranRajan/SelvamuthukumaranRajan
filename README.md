@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cross Platform Mobile App Development(React native)
 - 💞️ I’m interested in Mobile App Development and keen to learn new Mobile App Development Framework.
 - 🤗 I’m looking to collaborate on Discord @iamsmkz
-- 💌 Check out my profile on LinkedIn linkedin.com/in/iamsmk
+- 💌 Check out my profile on LinkedIn @iamsmk
 - 📫 How to tweet me @iamsmkz
 
 <!---
