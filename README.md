@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SelvamuthukumaranRajan
 - 👀 I have hands-on experience in Native Mobile App Developments(Android and iOS) and Cross Platform Mobile App Development(Flutter) 
 - 🌱 I’m currently learning Cross Platform Mobile App Development(React native)
-- 💞️ I’m interested in Mobile App Development and keen to learn new Mobile App Development Framework.
+- 💞️ I’m interested in Mobile App Development and keen to learn new Mobile App Development Framework and Technologies.
 - 🤗 I’m looking to collaborate on Discord @iamsmkz
 - 💌 Check out my profile on LinkedIn @iamsmk
 - 📫 How to tweet me @iamsmkz
