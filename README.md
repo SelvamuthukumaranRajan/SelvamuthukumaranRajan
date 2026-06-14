@@ -1,13 +1,12 @@
 👋 Hi, I’m @SelvamuthukumaranRajan
-* 📱 Building mobile experiences with Flutter & iOS
-* ⚡ 5+ years turning ideas into production apps
-* 🏗️ Interested in architecture, performance & clean products
-* 🚀 Currently exploring AI × Mobile
-* 🤝 Always open to building cool things
-
-💬 Discord → @iamsmkz
-💌 LinkedIn → @iamsmk
-📫 X → @iamsmkz
+- 🚀 Building mobile experiences with Flutter & iOS
+- 💞️ 5+ years turning ideas into production apps
+- 🏗️ Interested in architecture, performance & clean products
+- 🌱 Currently exploring AI × Mobile
+- 🤝 Always open to building cool things
+- 🤗 I’m looking to collaborate on Discord @iamsmkz
+- 💌 Check out my profile on LinkedIn @iamsmk
+- 📫 How to tweet me @iamsmkz
 
 *Think. Build. Ship.*
 
