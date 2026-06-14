@@ -1,33 +1,14 @@
-# 👋 Hi, I’m @SelvamuthukumaranRajan
+👋 Hi, I’m @SelvamuthukumaranRajan
+* 📱 Building mobile experiences with Flutter & iOS
+* ⚡ 5+ years turning ideas into production apps
+* 🏗️ Interested in architecture, performance & clean products
+* 🚀 Currently exploring AI × Mobile
+* 🤝 Always open to building cool things
 
-Senior Mobile Engineer with 5+ years of experience building scalable, secure, and high-performance mobile applications.
+💬 Discord → @iamsmkz
+💌 LinkedIn → @iamsmk
+📫 X → @iamsmkz
 
-📱 Specialized in Mobile Development across:
+*Think. Build. Ship.*
 
-* Flutter
-* iOS (SwiftUI / UIKit)
-* Android (Kotlin / Java)
-* Cross-platform Architecture
-
-🚀 Current Focus:
-
-* Mobile Architecture & System Design
-* Fintech & Secure Payment Experiences
-* Native + Flutter Integrations
-
-🛠️ Building and scaling:
-
-* Production mobile applications
-* Reusable SDKs & platform capabilities
-* CI/CD pipelines and developer experience
-
-🤝 Open to collaborating on:
-
-* Mobile architecture
-* Flutter ecosystems
-* Open source mobile tooling
-
-💬 Connect with me:
-
-* LinkedIn — @iamsmk
-* X (Twitter) — @iamsmkz
+<!--- SelvamuthukumaranRajan/SelvamuthukumaranRajan is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
